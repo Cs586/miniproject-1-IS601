@@ -13,5 +13,6 @@ function fancyAlert(arg) {
   }
 }
 ```
+    git clone <repo link>
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
