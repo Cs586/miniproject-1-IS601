@@ -1,3 +1,3 @@
 #git tutorial
 
-![Github Repo](/repo.png)
+![Github Repo](/images/repo.png)
